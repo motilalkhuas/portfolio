@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.144f5942.css",
+    "main.js": "/portfolio/static/js/main.84f46f4c.js",
+    "static/js/787.633816a4.chunk.js": "/portfolio/static/js/787.633816a4.chunk.js",
+    "static/media/Home Image.png": "/portfolio/static/media/Home Image.839e1d9af171b9bf2e1b.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.d77d95bc30516c0fc032.png",
+    "static/media/Instagram.png": "/portfolio/static/media/Instagram.0fa35b9267eed75454eb.png",
+    "static/media/Discord.png": "/portfolio/static/media/Discord.422994d1a3d88120e420.png",
+    "static/media/Twitter.png": "/portfolio/static/media/Twitter.1933aec9a1aed49dd3f1.png",
+    "static/media/Facebook.png": "/portfolio/static/media/Facebook.28db0877f4e22289f91c.png",
+    "static/media/LinkedIn.png": "/portfolio/static/media/LinkedIn.b592ea4156928c61badd.png",
+    "static/media/wavingHand.svg": "/portfolio/static/media/wavingHand.d811034f6f2fe28cd8bfcbda1105ff5e.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/Arrow.svg": "/portfolio/static/media/Arrow.a2b7daaff8086a9b2733fa4de5356426.svg",
+    "static/media/Logo.svg": "/portfolio/static/media/Logo.a1ad9a93fc066545c12deaf193955cb1.svg",
+    "main.144f5942.css.map": "/portfolio/static/css/main.144f5942.css.map",
+    "main.84f46f4c.js.map": "/portfolio/static/js/main.84f46f4c.js.map",
+    "787.633816a4.chunk.js.map": "/portfolio/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144f5942.css",
+    "static/js/main.84f46f4c.js"
+  ]
+}
